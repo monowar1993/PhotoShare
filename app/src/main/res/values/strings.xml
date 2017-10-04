@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Photo Share</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_logout">Logout</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_allUser">All Users</string>
+    <string name="creat_account">Creat Account</string>
+    <string name="button">Button</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome_to_photo_showcase">Welcome to Photo Showcase</string>
+    <string name="login_account">Login Account</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="email_address">email address</string>
+
+</resources>
